@@ -1,0 +1,34 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.formula{
+    width: 100px;
+    height: 110px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid;
+    margin-right: 100px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.logobpjs{
+    width: 300px;
+    height: 120px;
+    padding-left: 100px;
+    margin-top: 2px;
+}
+
+.bagian1{
+    background-color: rgb(22, 167, 22);
+    height: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.colom{
+    width: 15px;
+   margin-left: -2px;
+   text-align: center;
+}
